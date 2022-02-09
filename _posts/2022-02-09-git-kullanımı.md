@@ -1,5 +1,5 @@
 ---
-title: Git Kullanımı
+title: "Git Kullanımı"
 date: 2022-02-09
 ---
 - Gitin yüklü olup olmadığının ya da versiyonunun kontrolü `git --version`
